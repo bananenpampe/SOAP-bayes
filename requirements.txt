@@ -1,0 +1,4 @@
+joblib
+scikit-learn
+scikit-opt
+#git+https://github.com/lab-cosmo/librascal.git@master
