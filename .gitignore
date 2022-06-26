@@ -1,0 +1,13 @@
+
+.ipynb_checkpoints/Untitled-checkpoint.ipynb
+.ipynb_checkpoints/tutorial-checkpoint.ipynb
+.ipynb_checkpoints/helpers-checkpoint.py
+.ipynb_checkpoints/feature_skcosmo-checkpoint.py
+__pycache__/feature_skcosmo.cpython-37.pyc
+__pycache__/helpers.cpython-37.pyc
+Untitled.ipynb
+solver_final.pkl
+grid_search_fine.npy
+checkpoint_solver.pkl
+grid_search_fine.npy
+*.npy
