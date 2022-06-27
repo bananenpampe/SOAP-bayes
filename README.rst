@@ -10,4 +10,5 @@ A tutorial on SOAP hyperparameter optimization using librascal and scikit-opt
      pip install requirements.txt
      
 * Then open the notebook::
+     
      jupyter-notebook tutorial.ipynb
