@@ -7,7 +7,7 @@ A tutorial on SOAP hyperparameter optimization using librascal and scikit-opt
 
      git clone <link>
      cd <./cloned_repository>
-     pip install requirements.txt
+     pip install -r requirements.txt
      
 * Then open the notebook::
      
